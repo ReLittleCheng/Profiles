@@ -1,4 +1,5 @@
 # > NeteaseMusic
+USER-AGENT,NeteaseMusic*,PROXY
 DOMAIN-SUFFIX,music.163.com
 DOMAIN-SUFFIX,api.iplay.163.com
 DOMAIN-SUFFIX,ac.dun.163yun.com
